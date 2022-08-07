@@ -1,0 +1,9 @@
+{
+  "name": "threejs-portfolio",
+  "version": "1.0.0",
+  "description": "My ThreeJS Portfolio",
+  "repository": "git@github.com:hyperg3g/threejs-portfolio.git",
+  "author": "hyperg3g <eckos997@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
